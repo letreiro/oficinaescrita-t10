@@ -64,7 +64,7 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 
 ### Forma de pagamento
 Via Pix
-- Chave: **igorpedroza@gmail.com**
+- Chave: **85 9 9971-8455**
 - Favorecido: Igor Pedroza - Banco do Brasil  
 
 ### Inscrição
