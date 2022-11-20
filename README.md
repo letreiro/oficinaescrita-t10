@@ -72,7 +72,7 @@ Via transferência
 - Favorecido: Igor Pedroza     
 
 ### Inscrição
-Após o pagamento, preencher o formulário e anexar o comprovante neste **[LINK](https://forms.gle/GASCC3N7xkpHLdrNA).**  
+Após o pagamento, preencher o formulário e anexar o comprovante neste **[LINK](https://forms.gle/ScpAeYhEjrz6VFk67).**  
 
 Não haverá qualquer tipo de reserva de vagas.
 
