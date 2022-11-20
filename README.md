@@ -55,12 +55,12 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 
 ### Preço
 **1o. Lote - 20 vagas iniciais  - R$ 30**   
-  
+  19 vagas disponíveis nesse lote
    
 **2o. Lote - demais vagas - R$ 40**   
 
 
->```Atualizado em 20/11/22 - 13hs```
+>```Atualizado em 20-11-22 - 14:20hs```
 
 ### Forma de pagamento
 Via Pix
@@ -93,7 +93,7 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-- [ ]  20/11/2022 - Lançamento da oficina
+- [X]  20/11/2022 - Lançamento da oficina
 - [ ]  23/11/2022 - Fim de inscrição para vagas gratuitas PCT
 - [ ]  24/11/2022 - Divulgação do contemplados, por e-mail direto
 - [ ]  26/11/2022 - Envio do link e realização da oficina  
