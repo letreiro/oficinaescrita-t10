@@ -11,7 +11,7 @@ Essa oficina está em constante evolução. A primeira versão, ainda que singel
 
 A ampla aprovação é um incentivo para a continuidade dessas ações.
 
-Teremos 3 vagas destinadas à integrantes de Povos e Comunidades Tradicionais (CPT). Se você se enquadra, mande um e-mail para "igorpedroza@gmail.com" e me conta sobre você e sua comunidade.
+Teremos 3 vagas destinadas à integrantes de Povos e Comunidades Tradicionais (CPT).
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  
@@ -67,10 +67,6 @@ Via Pix
 - Chave: **igorpedroza@gmail.com**
 - Favorecido: Igor Pedroza - Banco do Brasil  
 
-Via transferência
-- Dados: Banco do Brasil / Ag. 3653-6 / Conta Corrente 108290-6
-- Favorecido: Igor Pedroza     
-
 ### Inscrição
 Após o pagamento, preencher o formulário e anexar o comprovante neste **[LINK](https://forms.gle/ScpAeYhEjrz6VFk67).**  
 
@@ -79,7 +75,9 @@ Não haverá qualquer tipo de reserva de vagas.
 
 ### Vagas gratuitas
 
-Através de avaliação serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
+Serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
+
+Se você se enquadra, mande um e-mail para "igorpedroza@gmail.com" e me conta sobre você e coma oficina poderá te ajudar.
 
 Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os "grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”. 
 
