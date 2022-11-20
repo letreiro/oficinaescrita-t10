@@ -75,9 +75,9 @@ Não haverá qualquer tipo de reserva de vagas.
 
 ### Vagas gratuitas
 
-Serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
+Serão oferecidas três vagas gratuitas para integrantes de Comunidades e Povos Tradicionais (CPT).
 
-Se você se enquadra, mande um e-mail para "igorpedroza@gmail.com" e me conta sobre você e coma oficina poderá te ajudar.
+Se você se enquadra, mande um e-mail para "igorpedroza@gmail.com" e me fale sobre você e como a oficina poderá te ajudar.
 
 Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os "grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”. 
 
@@ -94,7 +94,7 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 ## CRONOGRAMA
 
 - [ ]  20/11/2022 - Lançamento da oficina
-- [ ]  23/11/2022 - Fim de inscrição para vagas gratuitas - Povos e Comunidades Tradicionais
+- [ ]  23/11/2022 - Fim de inscrição para vagas gratuitas PCT
 - [ ]  24/11/2022 - Divulgação do contemplados, por e-mail direto
 - [ ]  26/11/2022 - Envio do link e realização da oficina  
 - [ ]  28/05/2021 - Envio das declarações comprobatórias  
@@ -114,6 +114,6 @@ Doutorando em Arqueologia (PPGArq/UFPE), mestre em Arqueologia (PPGArq/UFPE), gr
 ## OUTRAS INFORMAÇÕES, DÚVIDAS E SUGESTÕES
 Exclusivamente via e-mail: <igorpedroza@gmail.com>.  
 
-Gentileza informar no assunto: Oficina escrita - T9
+Gentileza informar no assunto: Oficina escrita - T10
 
 Tempo máximo para resposta: 24 horas.  
