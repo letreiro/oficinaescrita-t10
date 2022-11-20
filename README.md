@@ -11,7 +11,7 @@ Essa oficina está em constante evolução. A primeira versão, ainda que singel
 
 A ampla aprovação é um incentivo para a continuidade dessas ações.
 
-Teremos 3 vagas destinadas à integrantes de Povos e Comunidades Tradicionais (CPT).
+Teremos **3 vagas gratuitas** destinadas aos integrantes de Povos e Comunidades Tradicionais (CPT).
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  
