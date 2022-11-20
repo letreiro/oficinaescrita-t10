@@ -1,5 +1,5 @@
 # **OFICINA DE ESCRITA CIENTÍFICA: BOAS PRÁTICAS, FORMATAÇÃO E GERENCIAMENTO BIBLIOGRÁFICO (6 h/a)**
-**22/05/2021 (Sábado)**   
+**26/11/2022 (Sábado)**   
 09:00 - 12:00 / 13:00 - 16:00hs  
 Horário de Brasília (UTC-3)  
   
@@ -9,9 +9,9 @@ O objetivo é tratar de boas práticas científicas e aprimorar o uso de ferrame
 
 Essa oficina está em constante evolução. A primeira versão, ainda que singela, foi realizada em uma comunidade Quilombola. Outras edições foram desenvolvidas em centros culturais e em cursos de graduação, especialização, mestrado e doutorado.  
 
-A ampla aprovação é um incentivo para a continuidade dessas ações. Assim, essa nona turma será realizada de maneira remota, em função da Pandemia do Covid-19.
+A ampla aprovação é um incentivo para a continuidade dessas ações.
 
-Serão abertas 40 vagas, sendo 5 destinadas à integrantes de Povos e Comunidades Tradicionais (CPT), que serão distribuídas via sorteio prévio.
+Teremos 3 vagas destinadas à integrantes de Povos e Comunidades Tradicionais (CPT). Se você se enquadra, mande um e-mail para "igorpedroza@gmail.com" e me conta sobre você e sua comunidade.
 
 ## LOCAL
 Aula remota via plataforma Google Meet.  
@@ -54,13 +54,13 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 ## INSCRIÇÃO
 
 ### Preço
-**1o. Lote - 20 vagas iniciais  - R$ 47,60**   
-(3 vagas disponíveis)   
+**1o. Lote - 20 vagas iniciais  - R$ 30**   
+  
    
-**2o. Lote - 15 vagas restantes - R$ 56,60**   
-(15 vagas disponíveis)   
+**2o. Lote - demais vagas - R$ 40**   
 
->```Atualizado em 18/05/21 - 21:00hs```
+
+>```Atualizado em 20/11/22 - 13hs```
 
 ### Forma de pagamento
 Via Pix
@@ -76,30 +76,16 @@ Após o pagamento, preencher o formulário e anexar o comprovante neste **[LINK]
 
 Não haverá qualquer tipo de reserva de vagas.
 
-### Política de cancelamento
-- Até 11/05/21 - Reembolso de 90%
-- Até 16/05/21 - Reembolso de 45%
 
-Após esses prazos não haverá devolução.
+### Vagas gratuitas
 
-Caso não haja ocupação de 50% das vagas (20) até dia **12/05/2021**, o curso será adiado. Neste caso, quem tiver interesse poderá solicitar o reembolso integral. 
-
-### Vagas gratuitas (INSCRIÇÕES ENCERRADAS - SORTEIO REALIZADO)
-
-Através de sorteio, serão oferecidas cinco vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
+Através de avaliação serão oferecidas três vagas gratuitas para integrantes de Povos e Comunidades Tradicionais (CPT).
 
 Conforme o [Decreto 6.040/2017](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm), que institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT), são Povos e Comunidades Tradicionais (PCTs) os "grupos culturalmente diferenciados e que se reconhecem como tais, que possuem formas próprias de organização social, que ocupam e usam territórios e recursos naturais como condição para sua reprodução cultural, social, religiosa, ancestral e econômica, utilizando conhecimentos, inovações e práticas gerados e transmitidos pela tradição”. 
 
 Alguns exemplos: povos indígenas, os quilombolas, as comunidades tradicionais de matriz africana ou de terreiro, os extrativistas, os ribeirinhos, os caboclos, os pescadores artesanais, os pomeranos, entre outros.  
 
-As **inscrições para participação do sorteio** serão realizadas, exclusivamente, via formulário disponível neste **[LINK](https://forms.gle/XdGMCXfNDbyZYZYj8)**.  
-
-O prazo de inscrição foi encerrado no dia **7 de maio de 2021, às 23hs 59min**.
-
 Apenas uma inscrição por pessoa será aceita, sendo intransferível.  
-
-> O sorteio foi realizado no dia **9 de maio de 2021, via [Youtube](https://youtu.be/39Fs0Rn7tTE), às 10hs. O vídeo está gravado e disponível para consulta.**
-
 
 ## CERTIFICAÇÃO
 A frequência de participação será computada através da presença na sala virtual e respostas aos questionários que serão realizados ao longo da oficina.  
@@ -109,9 +95,10 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 
 ## CRONOGRAMA
 
-- [X]  07/05/2021 - Fim das inscrições para vagas gratuitas (Povos e Comunidades Tradicionais)  
-- [X]  09/05/2021 - Sorteio das vagas gratuitas  
-- [ ]  22/05/2021 - Envio do link e realização da oficina  
+- [ ]  20/11/2022 - Lançamento da oficina
+- [ ]  23/11/2022 - Fim de inscrição para vagas gratuitas - Povos e Comunidades Tradicionais
+- [ ]  24/11/2022 - Divulgação do contemplados, por e-mail direto
+- [ ]  26/11/2022 - Envio do link e realização da oficina  
 - [ ]  28/05/2021 - Envio das declarações comprobatórias  
    
    
