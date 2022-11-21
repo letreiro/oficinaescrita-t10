@@ -55,12 +55,12 @@ Todo o conteúdo será ministrado em ambiente Windows com uso dos softwares Word
 
 ### Preço
 **1o. Lote - 20 vagas iniciais  - R$ 30**   
-  19 vagas disponíveis nesse lote
+  17 vagas disponíveis
    
 **2o. Lote - demais vagas - R$ 40**   
 
 
->```Atualizado em 20-11-22 - 14:20hs```
+>```Atualizado em 21-11-22 - 9hs```
 
 ### Forma de pagamento
 Via Pix
