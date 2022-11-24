@@ -94,8 +94,8 @@ Será expedida declaração comprobatória de participação aos que obtiverem 7
 ## CRONOGRAMA
 
 - [X]  20/11/2022 - Lançamento da oficina
-- [ ]  23/11/2022 - Fim de inscrição para vagas gratuitas PCT
-- [ ]  24/11/2022 - Divulgação do contemplados, por e-mail direto
+- [X]  23/11/2022 - Fim de inscrição para vagas gratuitas PCT
+- [X]  24/11/2022 - Divulgação do contemplados, por e-mail direto
 - [ ]  26/11/2022 - Envio do link e realização da oficina  
 - [ ]  28/05/2021 - Envio das declarações comprobatórias  
    
